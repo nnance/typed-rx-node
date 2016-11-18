@@ -8,5 +8,8 @@
   },
   "ambientDevDependencies": {
     "node": "registry:dt/node#4.0.0+20160319033040"
+  },
+  "ambientDependencies": {
+    "rx": "registry:dt/rx#0.0.0+20160317120654"
   }
 }
